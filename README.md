@@ -1,18 +1,18 @@
 # CRM Numeric Workflow Utilities
 Custom workflow actions that deal with numeric values in Dynamics CRM 2011, 2013, 2015, & 2016
 
-Add
-Average
-Divide
-Max
-Min
-Multiply
-Random Number
-Round
-Subtract
-ToDecimal
-ToInteger
-Truncate
+* Add
+* Average
+* Divide
+* Max
+* Min
+* Multiply
+* Random Number
+* Round
+* Subtract
+* ToDecimal
+* ToInteger
+* Truncate
 
 Go to [Releases](https://github.com/jlattimer/CRM-Numeric-Workflow-Utilities/releases) and choose the latest 1.x.x.x version for 2011/2013 or the latest 2.x.x.x for 2015/2016.
 
