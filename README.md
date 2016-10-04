@@ -8,6 +8,7 @@ Custom workflow actions that deal with numeric values in Dynamics CRM 2011, 2013
 * Min
 * Multiply
 * Random Number
+* Random Number Between
 * Round
 * Subtract
 * ToDecimal
